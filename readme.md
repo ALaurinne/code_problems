@@ -34,7 +34,7 @@ Code | Test
 ### Dart
 Code | Test
 ------------ | -------------
-[Bubble Sort](https://github.com/larissalages/code_problems/blob/master/classical_algorithms/dart/BubbleSort.dart) | Missing tests
+[Quick Sort](https://github.com/larissalages/code_problems/blob/master/classical_algorithms/dart/QuickSort.dart) | Missing tests
 
 ### C++
 Code | Test
